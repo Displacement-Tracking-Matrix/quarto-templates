@@ -10,8 +10,6 @@ date: last-modified
 embed-resources: true
 title-slide-attributes:
     data-background-color: "#0033A0"
-
-
 ---
 
 ## Introduction
