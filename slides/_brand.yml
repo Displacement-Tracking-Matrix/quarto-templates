@@ -1,0 +1,78 @@
+meta:
+  name:
+    short: IOM
+    full: International Organization for Migration
+  link:
+    home: https://www.iom.int
+    linkedin: https://www.linkedin.com/company/international-organization-for-migration
+    twitter: https://twitter.com/UNmigration
+    facebook: https://www.facebook.com/UNmigration
+    instagram: https://www.instagram.com/unmigration
+
+logo:
+  images:
+    full: logos/iom-logo.svg
+    primary-visibility: logos/iom-primary-visibility.png
+    secondary-visibility: logos/iom-secondary-visibility.png
+    icon: logos/iom-icon.png
+  small: icon
+  medium:
+    light: primary-visibility
+    dark: secondary-visibility
+  large: full
+
+color:
+  palette:
+    primary-blue: "#0033A0"
+    light-blue: "#418FDE" 
+    yellow: "#FFB81C"
+    orange: "#FF671F" 
+    red: "#D22630" 
+    mint-green: "#5CB8B2" 
+    white: "#FFFFFF"
+    black: "#000000"
+  foreground: "#151515"
+  background: "#FFFFFF"
+  primary: primary-blue
+  secondary: yellow
+  success: mint-green
+  info: light-blue
+  warning: yellow
+  danger: red
+  light: white
+  dark: black
+
+typography:
+  fonts:
+    - family: Open Sans
+      source: google
+      weight: [400, 600, 700]
+      style: [normal, italic]
+  
+  base:
+    family: Open Sans
+    weight: 400
+    size: 16px
+    line-height: 1.5
+  
+  headings:
+    family: Open Sans
+    weight: 600
+    style: normal
+    line-height: 1.2
+    color: primary-blue
+  
+  monospace:
+    family: Open Sans
+    weight: 400
+    size: 0.9em
+
+  link:
+    weight: 600
+    color: primary-blue
+    decoration: underline
+
+defaults:
+  bootstrap:
+    defaults:
+      navbar-fg: "#fff"

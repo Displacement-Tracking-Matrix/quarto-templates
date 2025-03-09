@@ -1,0 +1,59 @@
+---
+title: DTM slides template
+subtitle: Web-based slide presentations
+format: 
+  slides-revealjs:
+    title-slide-background: "#3498db"
+    footer: "Footer text"
+author: Brian Mc Donald
+date: last-modified
+embed-resources: true
+title-slide-attributes:
+    data-background-color: "#0033A0"
+
+
+---
+
+## Introduction
+
+*TODO* Create an example file that demonstrates the formatting and features of your format.
+
+## More Information
+more information goes here
+
+ 
+
+# Section 1 {.slide-blue}
+
+Example section
+
+## Slide in section 1
+
+Changing text [color]{.text-primary}
+
+And changing text [background]{.bg-secondary}
+
+# Section 2 {.slide-blue}
+text goes here
+
+## Colours slide
+
+**Text**
+
+- Use `{.text-blue}` to apply [IOM blue]{.text-blue} color
+- Use `{.text-grey}` for [lighter text]{.text-grey} color
+
+**Background**
+
+- Use `{.bg-blue}` for [light blue]{.bg-blue} background
+- Use `{.bg-grey}` for [light grey]{.bg-grey} background
+- Use `{.bg-yellow}` for [yellow]{.bg-yellow} background
+- Use `{.bg-green}` for [green]{.bg-green} background
+- Use `{.bg-red}` for [green]{.bg-red} background
+
+
+
+# Section 4 {.slide-yellow}
+
+
+

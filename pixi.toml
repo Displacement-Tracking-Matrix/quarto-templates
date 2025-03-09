@@ -1,0 +1,10 @@
+[project]
+authors = ["Brian Mc Donald <brian@brianmcdonald.me>"]
+channels = ["conda-forge"]
+name = "quarto-templates-DTM"
+platforms = ["osx-arm64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
