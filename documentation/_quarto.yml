@@ -1,0 +1,23 @@
+project:
+  type: documentation
+
+book:
+  title: "Documentation"
+  author: "DTM team"
+  date: "8/18/2025"
+  chapters:
+    - index.qmd
+    - about.qmd
+  downloads: [epub]
+  cover-image: cover-portrait.png
+
+format:
+  documentation-html:
+    toc: true
+  epub:
+    cover-image: cover-portrait.png
+  # pdf: 
+  #   toc: true
+  #   section-numbering: 1.1.a
+    
+#  bibliography: references.bib

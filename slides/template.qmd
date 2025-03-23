@@ -49,6 +49,35 @@ text goes here
 - Use `{.bg-green}` for [green]{.bg-green} background
 - Use `{.bg-red}` for [green]{.bg-red} background
 
+## Columns slide
+
+:::: {.columns}
+
+::: {.column width="40%"}
+Left column
+:::
+
+::: {.column width="60%"}
+right column
+
+```{markdown}
+:::: {.columns}
+
+::: {.column width="40%"}
+Left column
+:::
+
+::: {.column width="60%"}
+Right column
+:::
+
+::::
+```
+:::
+
+::::
+
+
 
 
 # Section 4 {.slide-yellow}

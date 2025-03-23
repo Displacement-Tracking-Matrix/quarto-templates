@@ -3,3 +3,5 @@
 .pixi
 *.egg-info
 .DS_Store
+quarto-templates-DTM.code-workspace
+**/docs/
