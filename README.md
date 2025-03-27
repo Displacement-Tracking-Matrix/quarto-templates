@@ -9,6 +9,7 @@ Supported templates
 - **Dashboard**: HTML dashboard. *Status: Planned*
 - **Webpage**: HTML page. *Status: Planned*
 - **Paper**: Single-page HTML + pdf. *Status: Planned*
+- **Scrolly**: Single page HTML with scrollytelling elements. *Status: Planned*
 
 
 ## Installing
