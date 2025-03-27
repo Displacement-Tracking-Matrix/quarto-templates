@@ -1,6 +1,7 @@
 # DTM Quarto Templates
 
 Standard Quarto templates for Displacement Tracking Matrix products.
+
 *Warning: This is a work in progress. The templates are not yet ready for production use and are subject to change*
 
 Supported templates
