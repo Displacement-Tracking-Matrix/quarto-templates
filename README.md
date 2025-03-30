@@ -7,8 +7,8 @@ Standard Quarto templates for Displacement Tracking Matrix products.
 Supported templates
 - **Slides**: HTML presentation slides. *Status: Draft*
 - **Documentation**: HTML websites + pdf. *Status: Early draft*
+- **Analysis**: HTML page + optional pdf *Status: Draft*
 - **Dashboard**: HTML dashboard. *Status: Planned*
-- **Webpage**: HTML page. *Status: Planned*
 - **Paper**: Single-page HTML + pdf. *Status: Planned*
 - **Scrolly**: Single page HTML with scrollytelling elements. *Status: Planned*
 

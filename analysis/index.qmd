@@ -1,0 +1,25 @@
+---
+title: "First page title"
+subtitle: 'First page subtitle subtitle'
+author: Displacement Tracking Matrix
+affilliation: International Organization for Migration (IOM)
+date: today
+date-format: D MMMM YYYY
+---
+
+## Introduction
+
+{{< lipsum 1 >}}
+
+### Sub-section
+
+{{< lipsum 1 >}}
+
+#### Sub-sub-section
+
+{{< lipsum 1 >}}
+
+
+## Another section
+
+{{< lipsum 2 >}}
