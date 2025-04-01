@@ -18,7 +18,7 @@ Supported templates
 Choose the [template type] you want and type the following in your terminal:
 
 ```bash
-quarto use template Displacement-Tracking-Matrix/quarto-templates-DTM/[template type]
+quarto use template Displacement-Tracking-Matrix/quarto-templates/[template type]
 ```
 
 This will install the extension and create an example .qmd file that you can use as a starting place for your product.
@@ -26,7 +26,7 @@ This will install the extension and create an example .qmd file that you can use
 To add the template to an existing Quarto project, type:
 
 ```bash
-quarto add template Displacement-Tracking-Matrix/quarto-templates-DTM/[template type]
+quarto add template Displacement-Tracking-Matrix/quarto-templates/[template type]
 ```
 
 ## Prerequisites
